@@ -19,7 +19,7 @@ addon_info = AddonInfo(
 	addon_name="TelegramJusti",
 
 	# User-visible add-on name
-	addon_summary=_("Telegram Justi"),
+	addon_summary=_("TelegramJusti"),
 
 	# Add-on description
 	addon_description=_(
@@ -59,10 +59,8 @@ Características principales:
 	addon_author="Mauro Ocampo JustiCode <drmauroocampo271@gmail.com>",
 
 	# Documentation URL
-	addon_url="https://github.com/JustiCode/Telegram-Justi",
-
-	# Source code URL
-	addon_sourceURL="https://github.com/JustiCode/Telegram-Justi",
+	addon_url="https://github.com/JustiCode/TelegramJusti",
+addon_sourceURL="https://github.com/JustiCode/TelegramJusti",
 
 	# Documentation filename
 	addon_docFileName="readme.html",

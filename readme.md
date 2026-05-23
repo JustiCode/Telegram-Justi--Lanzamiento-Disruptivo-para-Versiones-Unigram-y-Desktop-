@@ -1,4 +1,4 @@
-# Telegram Justi
+# TelegramJusti
 
 Complemento de accesibilidad para NVDA compatible con Telegram Desktop y Unigram.
 
@@ -28,5 +28,5 @@ Mauro Ocampo JustiCode
 
 ## Repositorio
 
-https://github.com/JustiCode/Telegram-Justi
+https://github.com/JustiCode/TelegramJusti
 
